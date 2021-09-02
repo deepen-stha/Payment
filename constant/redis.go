@@ -5,5 +5,5 @@ const (
 	CLOUD_PASS = "1i3OXbOX2xhamLH1ItuUHc4EhUuGAV9u"
 
 
-	SQL_PASS = "#Diginity@2000"
+	SQL_PASS = "Give your pass"
 )
